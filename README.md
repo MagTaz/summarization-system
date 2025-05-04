@@ -45,7 +45,52 @@ To provide students, researchers, and professionals with a smart tool to quickly
 
 ---
 
-## 📷 Screenshots
+## 📱 Screenshots
 
-> _You can place screenshots in the `/images` folder and link them here:_
+### Welcome Screen
+![Welcome](images/WelcomeScreen.png)
 
+
+
+
+
+
+
+### Sign up Screen
+![SignUp](images/SignUpScreen.png)
+
+
+
+
+
+
+
+### Login Screen
+![Login](images/LoginScreen.png)
+
+
+
+
+
+
+### Home Screen
+![Home](images/HomeScreen.png)
+
+
+
+
+
+
+
+### Home Screen (Change Language)
+![Home](images/HomeScreen_changeLanguage.png)
+
+
+
+
+
+---
+
+## 🧑‍💻 Author
+
+**Mohamed Mohamed Barakat**  
