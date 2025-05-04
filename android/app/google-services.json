@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731966373776",
+    "project_id": "summarization-system",
+    "storage_bucket": "summarization-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731966373776:android:31246fc0b3ee6a0b2fbd15",
+        "android_client_info": {
+          "package_name": "com.example.summarization_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDodjGQ5_xFAOu3y43dlW4CQ5TZZSbv6B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
