@@ -1,6 +1,5 @@
 # summarization-system
 
-
 **Summarization System** is an intelligent Flutter application that helps users extract and summarize content from large PDF files using highlighted text. The app recognizes and differentiates between text colors to determine document structure and generate a clean summary.
 
 ---
@@ -48,53 +47,36 @@ To provide students, researchers, and professionals with a smart tool to quickly
 ## 📱 Screenshots
 
 ### Welcome Screen
-![Welcome](images/WelcomeScreen.png)
-
-
-
-
-
-
+<p align="center">
+  <img src="images/WelcomeScreen.png" width="400" alt="Welcome Screen"/>
+</p>
 
 ### Sign up Screen
-![SignUp](images/SignUpScreen.png)
-
-
-
-
-
-
+<p align="center">
+  <img src="images/SignUpScreen.png" width="400" alt="Sign up Screen"/>
+</p>
 
 ### Login Screen
-![Login](images/LoginScreen.png)
-
-
-
-
-
+<p align="center">
+  <img src="images/LoginScreen.png" width="400" alt="Login Screen"/>
+</p>
 
 ### Home Screen
-![Home](images/HomeScreen.png)
-
-
-
-
-
-
+<p align="center">
+  <img src="images/HomeScreen.png" width="400" alt="Home Screen"/>
+</p>
 
 ### Home Screen (Choose Pdf)
-![Home](images/ChoosePdf.png)
+<p align="center">
+  <img src="images/ChoosePdf.png" width="400" alt="Choose PDF Screen"/>
+</p>
 
+### Home Screen (After Extracting Text)
+<p align="center">
+  <img src="images/ExtractText.png" width="400" alt="Extracted Text Screen"/>
+</p>
 
-
-
-
-
-### Home Screen (after extract the text)
-![Home](images/ExtractText.png)
-
-
-
+---
 
 ## 🎬 Demo
 
@@ -102,9 +84,8 @@ To provide students, researchers, and professionals with a smart tool to quickly
   <img src="images/demo.gif" width="400" alt="App Demo"/>
 </p>
 
-
 ---
 
 ## 🧑‍💻 Author
 
-**Mohamed Mohamed Barakat**  
+**Mohamed Mohamed Barakat**
