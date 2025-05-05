@@ -95,9 +95,12 @@ To provide students, researchers, and professionals with a smart tool to quickly
 
 
 
+
 ## 🎬 Demo
-<iframe width="420" height="236" ![App Demo](images/demo.gif) frameborder="0" allowfullscreen></iframe>
-![App Demo](images/demo.gif)
+
+<p align="center">
+  <img src="images/demo.gif" width="400" alt="App Demo"/>
+</p>
 
 
 ---
