@@ -95,6 +95,10 @@ To provide students, researchers, and professionals with a smart tool to quickly
 
 
 
+## 🎬 Demo
+
+![App Demo](images/demo.gif)
+
 
 ---
 
