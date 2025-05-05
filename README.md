@@ -82,9 +82,16 @@ To provide students, researchers, and professionals with a smart tool to quickly
 
 
 
-### Home Screen (Change Language)
-![Home](images/HomeScreen_changeLanguage.png)
+### Home Screen (Choose Pdf)
+![Home](images/ChoosePdf.png)
 
+
+
+
+
+
+### Home Screen (after extract the text)
+![Home](images/ExtractText.png)
 
 
 
